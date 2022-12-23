@@ -1,4 +1,4 @@
-Hi, I'm Myian.
+## Hi, I'm Myian.
 
 I'm sometimes a streamer over on [twitch.tv/myian](https://twitch.tv/myian). These days, I'm more of a writer. I'll always be a person.
 
@@ -6,4 +6,4 @@ For my own purposes, I created [tcpi.ahk](https://github.com/HeyMyian/tcpi) with
 
 Of course there are 999 projects, and, oh, hey, what's that over there?
 
-A new idea.
+*A new idea.*
